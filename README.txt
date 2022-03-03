@@ -2,5 +2,5 @@ Primeiro arquivo git.
 
 Alteração no meu README para descrever melhor meu sistema.
 
-git diff funcionando
+github funcionado perfeitamente.
 
